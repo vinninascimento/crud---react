@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Vinicius",
+      "cpf": "000.000.000-00",
+      "telefone": "999999999",
+      "email": "vinicus1305@gmail.com",
+      "endereco": "Rua Projetada",
+      "id": 1
+    },
+    {
+      "name": "Helio ",
+      "cpf": "100.100.100-90",
+      "telefone": "22 99273-5488",
+      "email": "helio@gmail.com",
+      "endereco": "Rua Projetada",
+      "id": 2
+    }
+  ]
+}
